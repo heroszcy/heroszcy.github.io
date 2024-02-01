@@ -1,0 +1,35 @@
+/* FILEPATH: /Users/zhaochongyou/project/web/web_project/github_io/styles/styles.css */
+
+/* Reset default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set default font and color */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+/* Add some spacing */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+
+}
+
+/* Add some basic styling to links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
